@@ -5,5 +5,5 @@
 #file1/
 
 
-!*.tex
-!*.pdf 
+*.tex
+*.pdf 
